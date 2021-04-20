@@ -1,0 +1,21 @@
+1.Could u tell me something about yourself?
+my name is Van, my full name is Nguyen thi hong van, i'm 25 years old. i'm from Hai Duong.For education, i graduated form HN Univesity of Industry in Electronic major. After 3 years working as a TE NPI engineer, i have gathered many experience at this position.
+2.What is your main duties?
+My main duties included responsible NPI project about STB model and unusual problems for MP project(Example co - work with customer, RD to debug and verrify SW, funtions of new product,co- work with other departments to solve unusual problems ). Write test program communicate with shop floor,and some projects other (Test camera’s Tablet,Check LED of product automatic,Communicates with Web API,..)
+3.What are your strengths?
+My strengths is strong logic, Problem solving and Analyzing.
+4.What are your short - term goals?
+My short term goal is to find a position where i can use my knowledge and strengths which i have. And, i want to partake in the growth and success of the company i work for.
+5.What are your long-term goals?
+I want to be come a manager in the field of engineering in future. and exellent programmer.
+6.Why do you leave yours job?
+I want to focus on my major at a professional working enviroment and get a promotion for work.
+7.Could you tell me 3 important skill for NPI TE.
+For me, 3 important skills as 3 important personalities which need for a TE NPI engineer are careful, hard-working and inquisitive.
+8.What do you know about us? 
+
+9.How long do you plan on staying with this company?
+10.why should i hire you?
+11.Do you have any question for me?
+What norms do you expcet for NPI TE engineer position?
+What issues are your company facing? Do have any methods to process them?
